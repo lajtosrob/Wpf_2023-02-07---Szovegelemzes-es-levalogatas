@@ -1,0 +1,9 @@
+﻿<Application x:Class="Wpf_2023_02_07___Szövegelemzés_és_leválogatás.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Wpf_2023_02_07___Szövegelemzés_és_leválogatás"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
